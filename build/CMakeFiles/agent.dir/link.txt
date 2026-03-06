@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/agent.dir/src/agent_main.cpp.o CMakeFiles/agent.dir/src/peer_buffer.cpp.o -o agent  -lpthread 
